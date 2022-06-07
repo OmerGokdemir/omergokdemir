@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @serbestyzlmc
+- 👋 Hi, I’m @omergokdemir
 - 👀 I’m interested in JAVA, HTML, CSS, Phyton
 - 🌱 I’m currently learning JAVA
 
