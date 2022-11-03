@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omergokdemir
 - 👀 I’m interested in JAVA, HTML, CSS, Phyton
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning Python
 
 
 <!---
