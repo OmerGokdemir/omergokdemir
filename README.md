@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omergokdemir
-- 👀 I’m interested in JAVA, HTML, CSS, Phyton
+- 👀 I’m interested in Phyton, HTML, CSS, Bootsrap, Javascript, React, JAVA
 - 🌱 I’m currently learning Python
 
 
