@@ -64,13 +64,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/OmerGokdemir/OmerGokdemir/blob/output/snake.svg" alt="Snake animation" />
-
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/OmerGokdemir/count.svg?"  />
 </div>
