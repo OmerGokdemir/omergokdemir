@@ -1,6 +1,6 @@
 <br clear="both">
 
-<p align="left">- 👋 Hi, I’m @omergokdemir<br>- ⚙️ I'm currently working on a Django Backend Project<br>- 👀 I’m interested in Phyton, HTML, CSS, Bootsrap, Javascript, React, Django, Rest API, MongoDB, PostgreSQL<br>- 👨‍💻 I'm looking to collobrate on Python<br>- 🍀 I'm looking for help with web development<br>- 🌱 I'm currently learning Python, Django and Rest API<br>- ❔ Ask me about my project<br>- ⚽ Fun facts about Python and Software</p>
+<p align="left">- 👋 Hi, I’m @omergokdemir<br>- ⚙️ I'm currently working on a Django Backend Project<br>- 👀 I’m interested in Phyton, HTML, CSS, Bootsrap, Javascript, React, Django, Rest API, MongoDB, PostgreSQL<br>- 👨‍💻 I'm looking to collobrate on Python<br>- 🍀 I'm looking for help with web development<br>- 🌱 I'm currently working Python, Django and Rest API<br>- ❔ Ask me about my project<br>- ⚽ Fun facts about Python and Software</p>
 
 ###
 
