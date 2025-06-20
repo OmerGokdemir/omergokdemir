@@ -41,7 +41,7 @@
 
 ###
 
-[<div align="left">
+<div align="left">
   <a href="https://www.linkedin.com/in/omer-gokdemir/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -63,7 +63,7 @@
   <a href="https://www.upwork.com/freelancers/~01cf80f9e22cf120e3" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-Profile-6fda44?style=for-the-badge&logoColor=white" height="35" alt="upwork badge" />
   </a>
-</div>]
+</div>
 
 ###
 
