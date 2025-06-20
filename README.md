@@ -41,7 +41,7 @@
 
 ###
 
-<div align="left">
+[<div align="left">
   <a href="https://www.linkedin.com/in/omer-gokdemir/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -60,7 +60,7 @@
   <a href="https://www.youtube.com/channel/UCdNAXyctRQhnNwC1ufhvoiQ" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-</div>
+</div>](https://www.upwork.com/freelancers/~01cf80f9e22cf120e3)
 
 ###
 
