@@ -61,7 +61,7 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="https://www.upwork.com/freelancers/~01cf80f9e22cf120e3" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Upwork-logo.svg" height="35" alt="upwork logo" />
+    <img src="https://img.shields.io/badge/Upwork-Profile-6fda44?style=for-the-badge&logoColor=white" height="35" alt="upwork badge" />
   </a>
 </div>]
 
