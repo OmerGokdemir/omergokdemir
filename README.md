@@ -60,7 +60,10 @@
   <a href="https://www.youtube.com/channel/UCdNAXyctRQhnNwC1ufhvoiQ" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-</div>](https://www.upwork.com/freelancers/~01cf80f9e22cf120e3)
+  <a href="https://www.upwork.com/freelancers/~01cf80f9e22cf120e3" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Upwork-logo.svg" height="35" alt="upwork logo" />
+  </a>
+</div>]
 
 ###
 
